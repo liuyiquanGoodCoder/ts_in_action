@@ -6,6 +6,7 @@ import './base/class'
 import './base/class-interface'
 import './base/generics'
 import './base/advanced'
+import './base/advanced-type'
 
 let hello : string = 'Hello typescript'
 document.querySelectorAll('.app')[0].innerHTML = hello
